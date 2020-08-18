@@ -1,3 +1,10 @@
+// big O
+// worst case O(log n) best case O(1)
+// 16 elements was 4 steps, 32 elements was 5 steps 
+// and that is logn , binary search is very fast
+//  It only works on sorted arrays
+
+
 function binarySearch(arr, val){
     // add whatever parameters you deem necessary - good luck!
     let left = 0;

@@ -1,0 +1,1 @@
+// to count the number of times a string appeared in a string
